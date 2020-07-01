@@ -1,0 +1,281 @@
+/* navigationbar */
+
+.navbarlist{
+  margin: 0 10px;
+}
+
+.navbar{
+  padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+
+
+/* MainIntro */
+
+#home{
+  background-color: #3f72a5 ;
+  /* #041744   #3f72a5 */
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  margin-right: 0;
+
+  }
+  .logo{
+    height: 10rem;
+    width: 10rem;
+    padding-right: 10%;
+    padding-left: 0%;
+    text-align: left;
+  }
+  .homescreen{
+    padding-top: 0;
+  }
+
+.container-fluid{
+  padding: 2% 7% 0 7%;
+  text-align: left;
+}
+
+.title-image{
+  position: relative;
+  height: 460px;
+  width: 600px;
+
+
+}
+
+h1{
+  font-size: 5rem;
+  line-height: 1.3;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+h3{
+  font-size: 1.4rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:400;
+}
+
+h2{
+  font-size: 4rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #3f72a5 ;
+  padding-bottom: 10px;
+}
+
+.column{
+  padding-top: 0;
+}
+
+
+
+/* About Us */
+
+#aboutus{
+  text-align: right;
+  padding: 7% 10% 7% 7%;
+}
+
+.aboutuscontent{
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:200;
+  line-height: 1.5;
+}
+
+.about-image{
+  height: 460px;
+  width: 600px;
+  padding-right: 15%;
+}
+
+/* Services */
+#services{
+  background-color: #3f72a5 ;
+  padding: 7% 7% 15% 7%;
+}
+
+.servicesheading{
+  color: white;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.servicescontent{
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:200;
+  line-height: 1.5;
+  text-align: center;
+  color: white;
+}
+
+.servicesIconsRow{
+padding-top: 3%;
+
+}
+
+/* PRODUCTS */
+.box1{
+  height: 300px;
+  background-color:#51c0e5 ;
+  /* #fee039 */
+  text-align: center;
+
+}
+.box2{
+  height: 300px;
+  background-color: #df4358;
+
+}
+.box3{
+  height: 300px;
+  background-color: #163d78;
+}
+
+.box4{
+  height: 300px;
+  background-color: #fee767;
+
+}
+.box5{
+  height: 300px;
+  background-color: #091f50;
+
+}
+.box6{
+  height: 300px;
+  background-color: #fee039;
+
+}
+.box7{
+  height: 300px;
+  background-color: #e03c26;
+}
+.box8 {
+  height: 300px;
+  background-color: #12346c;
+}
+
+
+.productsheading{
+  font-size:3rem;
+  line-height: 1.3;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 30%;
+  color: white;
+}
+.heading8{
+  font-size: 2.5rem;
+  padding-right: 3%;
+}
+.listimage{
+  padding-bottom:5px;
+}
+.onclickhtml{
+  font-size: 1rem;
+  color: white;
+  line-height: 0.5;
+  text-align: center;
+}
+.changer{
+  padding-top: 6%;
+}
+#goback{
+  color: blue;
+}
+
+
+#products{
+  padding: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+/* whychooseus */
+#whychooseus{
+  padding: 7% 7% 5% 7%;
+  background-color: #fff;
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:200;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.whychooseusContentHeading{
+  font-size: 2rem;
+
+}
+.featurerow{
+  padding-top: 5%;
+  padding-left: 3%;
+  padding-right: 3%
+}
+
+.featurecol{
+  padding-bottom: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+
+/* footer */
+.footer-logo{
+  color: white;
+  margin: 0 10px 10px 10px;
+}
+#footer{
+  text-align: center;
+  padding: 7% 0 2% 0;
+  background-color: #3f72a5;
+  color: white;
+}
+.footercopy{
+  color: #c7c7c7;
+}
+.footerheading{
+  color: white;
+}
+.fa-location-arrow{
+  font-size: 2rem;
+}
+.contactrow1{
+  text-align: center;
+  padding: 3% 10% 0% 20%;
+}
+
+.contactrow2{
+  text-align: center;
+  padding: 0% 10% 1% 20%;
+}
+.contacticon{
+  padding-left: 20%;
+  padding-right: 0;
+  padding-top: 6px;
+}
+.contactcontent{
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: left;
+
+}
+.fa-mobile-alt{
+  font-size: 2rem;
+}
+.envelope{
+  font-size: 2rem;
+}
+
+.contactrow3{
+  text-align: center;
+  padding: 0% 10% 10% 20%;
+}
